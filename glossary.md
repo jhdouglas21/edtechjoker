@@ -172,7 +172,10 @@ Oracle VM VirtualBox is cross-platform virtualization software. It allows users 
 
 
 ## User Experience / Usability
+User Experience is the focus on having a deep understanding of the users, their needs, values, abilities, and limitations. The idea is to promote quality improvement in user interactions with your product. Usability is the extent to which a product can be used by specified users to achieve specified goals. The key difference is that User Experience is a more broad look on the overall usability of the interaction between user and product whereas usability is a bit more narrow. 
 
+https://www.usability.gov/what-and-why/user-experience.html
+https://uxplanet.org/usability-vs-user-experience-lets-get-the-differences-straight-shall-we-e81d5759b4ce 
 
 ## Open Educational Resources (OER)
 
